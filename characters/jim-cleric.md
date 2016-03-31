@@ -3,24 +3,24 @@
 
 ## Domain: Trickery
 
-1st   
+### 1st   
 + charm person
 + disguise self
 
-3rd   
+### 3rd   
 + mirror image
 + pass without trace
 
-5th   
-+ blink, 
+### 5th   
++ blink
 + dispel magic
 
-7th   
-+ dimension door, 
+### 7th   
++ dimension door
 + polymorph
 
-9th   
-+ dominate person,
+### 9th   
++ dominate person
 + modify memory
 
 ## Spells
