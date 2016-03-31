@@ -59,35 +59,35 @@ Level 11
 
 ### Cantrips
 
-Guidance
-Resistance
-Sacred Flame
-Thaumaturgy
++ Guidance
++ Resistance
++ Sacred Flame
++ Thaumaturgy
 
-# Level 1
-Cure Wounds
-Healing Word
-Shield of Faith
-Bless
+### Level 1
++ Cure Wounds
++ Healing Word
++ Shield of Faith
++ Bless
 
-# Level 2
-Lesser Restoration
-Prayer Of Healing
-Hold Person
+### Level 2
++ Lesser Restoration
++ Prayer Of Healing
++ Hold Person
 
-# Level 3
-Revivify
-Animate Dead
-Mass Healing Word
+### Level 3
++ Revivify
++ Animate Dead
++ Mass Healing Word
 
-# Level 4
-Guardian of Faith
-Freedom of Movement
-Locate Creature
+### Level 4
++ Guardian of Faith
++ Freedom of Movement
++ Locate Creature
 
-# Level 5
-Mass Cure Wounds
-Planar Binding
+### Level 5
++ Mass Cure Wounds
++ Planar Binding
 
-# Level 6
-Planar Ally
+### Level 6
++ Planar Ally
