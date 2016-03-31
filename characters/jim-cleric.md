@@ -27,35 +27,35 @@
 
 Level 8
 
-1st Level:4 
-2nd Level:3 
-3rd Level:3 
-4th Level:2
++ 1st Level:4 
++ 2nd Level:3 
++ 3rd Level:3 
++ 4th Level:2
 
 Level 9
 
-1st Level:4 
-2nd Level:3 
-3rd Level:3 
-4th Level:3 
-5th Level:1
++ 1st Level:4 
++ 2nd Level:3 
++ 3rd Level:3 
++ 4th Level:3 
++ 5th Level:1
 
 Level 10
 
-1st Level:4 
-2nd Level:3 
-3rd Level:3 
-4th Level:3 
-5th Level:2
++ 1st Level:4 
++ 2nd Level:3 
++ 3rd Level:3 
++ 4th Level:3 
++ 5th Level:2
 
 Level 11
 
-1st Level:4 
-2nd Level:3 
-3rd Level:3 
-4th Level:3 
-5th Level:2
-6th Level:1
++ 1st Level:4 
++ 2nd Level:3 
++ 3rd Level:3 
++ 4th Level:3 
++ 5th Level:2
++ 6th Level:1
 
 ### Cantrips
 
